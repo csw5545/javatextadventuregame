@@ -1,0 +1,4 @@
+javatextadventuregame
+=====================
+
+Fun outside project...
